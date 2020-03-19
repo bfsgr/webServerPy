@@ -3,7 +3,7 @@ A simple web server written in python. It only accepts GET requests and only sen
 
 * The default server port is 35698. 
 * The root is configure to return a index.html file in the directory.
-* Every file inside the same folder (and bellow) and should be accessible.
+* Every file inside the same folder (and bellow) should be accessible.
 
 Lauch it with:
      ``python WebServer.py``
